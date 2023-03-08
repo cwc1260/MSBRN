@@ -1,8 +1,8 @@
 gpu: "1"
 multi_gpu: null
 
-model_name: models_msbrn
-iters: 3
+model_name: model_msbrn
+iters: 4
 
 # grad_clip #################
 
