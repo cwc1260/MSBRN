@@ -52,7 +52,7 @@ We provide pretrained model in ```pretrain_weights```.
 
 Please run the following instrcutions for evaluating.
 ```bash
-python3 evaluate.py config.yaml
+python3 evaluate.py config_evaluate.yaml
 ```
 
 ### Train
