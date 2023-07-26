@@ -1,7 +1,7 @@
 # Multi-Scale Bidirectional Recurrent Network with Hybrid Correlation for Point Cloud Based Scene Flow Estimation
 Wencan Cheng and Jong Hwan Ko
 
-IEEE International Conference on Computer Vision (ICCV), 2021
+IEEE International Conference on Computer Vision (ICCV), 2023
 
 ## Prerequisities
 Our model is trained and tested under:
